@@ -21,6 +21,7 @@
 
 - C
 - Javascript
+- Nim
 - Rust
 
 ---
