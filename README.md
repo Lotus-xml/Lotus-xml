@@ -13,7 +13,7 @@
 - I'm a very skilled OSINT analyst.
 - I'm a pedo hunter.
 - I know HTML, PHP, Python, basic C, and Javascript.
-- I am able to find, and identify basic website security issues (XSS, SQL injection, and information leakage).
+- I am able to find and identify website security issues (XSS, SQL injection, and information leakage).
 
 ---
 
