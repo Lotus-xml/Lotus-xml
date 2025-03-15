@@ -11,7 +11,6 @@
 ### **🔍 My Skills 🔍**
 
 - I'm an OSINT analyst.
-- I hunt pedophiles.
 - I know HTML, PHP, Python, basic C, and Javascript.
 - I am able to find and identify website security issues (XSS, SQLI, and info leakage).
 
@@ -40,21 +39,7 @@
 
 ### **💬 Socials 💬**
 
-- **[Personal Instagram](https://www.instagram.com/lotus.pyc/)**
-- **[My Discord](https://discordapp.com/users/877317715977728001)**
 - **[Karma's Instagram](https://www.instagram.com/karma_.ngo/)**
-
----
-
-### **🪙 Crypto 🪙**
-
-**BTC:** `bc1qkcegsu0d3ft760vcqnxppnsyzx77nvsvk9wmuf`
-
-**ETH:** `0xF6E2546193C9a13f6AE01D630560e1626506a841`
-
-**LTC:** `MDfA2rNHXoRZtLHemvUZU3K2tT1N3HiuHx`
-
-**USDT:** `0xF6E2546193C9a13f6AE01D630560e1626506a841`
 
 ---
 
